@@ -2,4 +2,4 @@
 
 (WebX = *Web Services & XML*)
 
-Cette organization GitHub héberge les Projets & Travaux Pratiques de l'UE WebX.
+Cette organisation GitHub héberge les Projets & Travaux Pratiques de l'UE WebX.
